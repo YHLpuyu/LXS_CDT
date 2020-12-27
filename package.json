@@ -1,0 +1,19 @@
+{
+  "name": "lxs_cdt",
+  "version": "1.0.0",
+  "description": "三角剖分",
+  "main": "index.js",
+  "scripts": {
+    "build":"gulp lxs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cdt"
+  ],
+  "author": "yhl",
+  "license": "ISC",
+  "dependencies": {
+    "@types/delaunator": "^3.0.0",
+    "delaunator": "^4.0.1"
+  }
+}

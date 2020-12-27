@@ -1,0 +1,10 @@
+{
+    "files": ["index.ts"],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "ES5",
+        "esModuleInterop": true,
+        "lib": ["ES2015"],
+        "sourceMap": true
+    }
+}
